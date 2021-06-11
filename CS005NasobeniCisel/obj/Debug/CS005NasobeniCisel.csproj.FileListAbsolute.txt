@@ -1,0 +1,10 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\bin\Debug\CS005NasobeniCisel.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\bin\Debug\CS005NasobeniCisel.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\bin\Debug\CS005NasobeniCisel.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.Form1.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS005NasobeniCisel\CS005NasobeniCisel\obj\Debug\CS005NasobeniCisel.pdb
